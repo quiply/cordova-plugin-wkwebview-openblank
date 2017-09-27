@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-wkwebview-openblank",
+  "version": "0.0.3",
+  "description": "Cordova WKWebView OpenBlank Plugin",
+  "cordova": {
+    "id": "cordova-plugin-wkwebview-openblank",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": "https://github.com/SebastianSchirmer/cordova-plugin-wkwebview-openblank.git",
+  "keywords": [
+    "ionic",
+    "cordova",
+    "wkwebview",
+    "iframe",
+    "openblank",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Sebastian Schirmer",
+  "license": "Apache 2.0"
+}
