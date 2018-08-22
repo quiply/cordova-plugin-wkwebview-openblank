@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="cordova-plugin-wkwebview-openblank"
+        id="cordova-plugin-wkwebview-openblank-quiply"
         version="0.0.3">
     <name>OpenBlank</name>
     <description>Cordova WKWebView OpenBlank Plugin</description>

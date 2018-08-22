@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-wkwebview-openblank-quiply",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Cordova WKWebView OpenBlank Plugin",
   "cordova": {
     "id": "cordova-plugin-wkwebview-openblank-quiply",
